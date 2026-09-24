@@ -86,7 +86,7 @@ function Pricing() {
                 </ul>
 
                 <a
-                  href={`https://web.whatsapp.com/send?phone=543512447171&text=Hola,%20quiero%20más%20información%20sobre%20el%20Plan%20${plan.name}%20de%20Vexio%20y%20sus%20opciones%20de%20contratación.`}
+                  href={`https://wa.me/543512447171?text=Hola,%20quiero%20más%20información%20sobre%20el%20Plan%20${plan.name}%20de%20Vexio%20y%20sus%20opciones%20de%20contratación.`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`pricing-btn ${
