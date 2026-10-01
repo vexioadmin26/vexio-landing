@@ -16,7 +16,7 @@ function Contact() {
 
         <div className="contact-buttons">
           <a
-            href="https://web.whatsapp.com/send?phone=543512447171&text=Hola,%20quiero%20solicitar%20una%20demo%20de%20Vexio%20para%20conocer%20sus%20funcionalidades."
+            href="https://web.whatsapp.com/send?phone=543513756929&text=Hola,%20quiero%20solicitar%20una%20demo%20de%20Vexio%20para%20conocer%20sus%20funcionalidades."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-contact-primary"

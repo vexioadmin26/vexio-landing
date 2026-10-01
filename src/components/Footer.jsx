@@ -71,7 +71,7 @@ function Footer() {
             <h5>Contacto</h5>
 
             <p>📧 vexioadmin26@gmail.com</p>
-            <p>📱 +54 351 244 7171</p>
+            <p>📱 +543513756929</p>
             <p>Córdoba, Argentina</p>
           </div>
 

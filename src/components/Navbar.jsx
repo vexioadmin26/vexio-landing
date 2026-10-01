@@ -12,7 +12,7 @@ function Navbar() {
         </a>
 
         <a
-          href="https://wa.me/543512447171?text=Hola,%20quiero%20más%20información%20sobre%20Vexio."
+          href="https://wa.me/543513756929?text=Hola,%20quiero%20más%20información%20sobre%20Vexio."
           target="_blank"
           rel="noopener noreferrer"
           className="btn-whatsapp"
