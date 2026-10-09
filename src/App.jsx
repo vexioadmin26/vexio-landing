@@ -7,6 +7,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import WhyChoose from "./components/WhyChoose";
 import FAQ from "./components/FAQ";
+import Descargas from "./Descargas";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <About />      
       <WhyChoose /> 
       <Pricing />
+      <Descargas />
       <FAQ />
       <Contact />
       <Footer />
