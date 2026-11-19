@@ -6,7 +6,7 @@ const DESCARGAS = {
     nombre: "Windows 64 bits",
     arquitectura: "x64",
     descripcion: "Para computadoras con Windows de 64 bits.",
-    url: "https://github.com/vexioadmin26/vexio-landing/releases/download/v1.0.0/VEXIO-1.0.7-x64.exe",
+    url: "https://github.com/vexioadmin26/vexio-landing/releases/download/v1.0.0/VEXIO-1.0.10-x64.exe",
   },
   x32: {
     nombre: "Windows 32 bits",
